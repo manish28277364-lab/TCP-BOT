@@ -1,7 +1,0 @@
-requests
-pycryptodome
-colorama
-urllib3
-psutil
-aiohttp
-MajorLoginReq_pb2
