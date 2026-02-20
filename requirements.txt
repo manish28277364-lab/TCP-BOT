@@ -3,3 +3,4 @@ pycryptodome
 colorama
 urllib3
 psutil
+aiohttp
